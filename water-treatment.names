@@ -296,14 +296,4 @@ N.  Attrib.
     The first element of each line is the day of the data,
    the rest are the attribute values
 
-Observações da Planta
-
-- O DBO é um bom indicador para saber a eficiência da planta
-- SSV são sólidos gerados pelos processos Biológicos de tratamento de água
-- Os sólidos estão na unidade de concentração, mg/L
-- Zinco é um elemento a ser retirado da planta, no entanto, não há valores de saída. Há também a possibilidade do zinco ser um agente desinfetante, logo a quantidade pode ser influência na performance de DBO e DQO
-- SED é slug
-- Como a relação SS>SSV não é verdadeira para todos os casos, têm-se que o SS é o FSS (Fixed Suspend Solids), ou seja, sólidos suspensos de origem inorgânica
-- Most of the inorganic fraction of the organics settle in the primary tank thus the TSS in settled wastewater is less than in the raw wastewater. The VSS in the raw wastewater and settled wastewater is almost the same thus the VSS/TSS of settled wastewater is higher than that of raw wastewater 
-
 
